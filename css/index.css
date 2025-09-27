@@ -1,4 +1,26 @@
+body{
+    margin: 0;
+}
+
 
 header{
+    display: flex;
+    height: 70px;
+    justify-content: flex-start;
+    padding: 15 30;
     background-color: brown;
+}
+
+.logoNav {
+    height: 50px;
+    width: auto;
+}
+
+.navbar button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 8px 12px;
 }
