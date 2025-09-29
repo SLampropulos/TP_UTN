@@ -181,10 +181,11 @@ footer li:first-child{
 .formulario-contacto input,
 .formulario-contacto select,
 .formulario-contacto textarea {
-  padding: 10px;
-  border: none;
-  border-radius: 5px;
-  font-family: inherit;
+    color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-family: inherit;
 }
 
 .formulario-contacto textarea {
